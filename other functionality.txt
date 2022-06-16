@@ -1,0 +1,3 @@
+1.update note
+2.change status of note like done, todo pending
+3.refresh note list to remove note with done status
